@@ -1,11 +1,9 @@
-<<<<<<< HEAD
 # Advanced Device Detector
 
 ## Description
 =======
 ![image](https://github.com/user-attachments/assets/f8843bf7-4cb7-4844-97fc-f7ac81e5fded)# Detected-devices-with-A.I-machine-learning
 # Advanced Device Detector folders structure
-structure
 ## Review process 
 ## Review process 
 ## Description
@@ -36,7 +34,6 @@ structure
 ![image](https://github.com/user-attachments/assets/03459ca7-932e-4ba2-81bb-c48d3c36db4b)
 ![image](https://github.com/user-attachments/assets/10479d60-6892-4170-8798-cc51c63c476a)
 ![image](https://github.com/user-attachments/assets/6cf88e25-3159-4659-b69d-1dbafcf14dfd)
->>>>>>> 57758d315c14675268140dd3fff3b7dde2be1e02
 
 This is a Python application that combines Wi-Fi scanning data and audio analysis with a Machine Learning model to detect and identify nearby devices. The application provides a graphical user interface (GUI) to display the number of devices, identified devices, prediction confidence, and estimated distance to a target device.
 
@@ -148,8 +145,6 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-<<<<<<< HEAD
 SOFTWARE. 
 =======
-SOFTWARE. 
->>>>>>> 57758d315c14675268140dd3fff3b7dde2be1e02
+
