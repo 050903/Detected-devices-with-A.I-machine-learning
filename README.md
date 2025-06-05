@@ -1,12 +1,16 @@
 # Advanced Device Detector
-
-## Description
-=======
+## Advanced Device Detector folders structure
 ![image](https://github.com/user-attachments/assets/f8843bf7-4cb7-4844-97fc-f7ac81e5fded)# Detected-devices-with-A.I-machine-learning
-# Advanced Device Detector folders structure
+
+
+## Complete and Detailed Mermaid Flowchart
+![image](https://github.com/user-attachments/assets/e44ee4d7-2af3-4eeb-8969-3c25d29d9eb2)
+![image](https://github.com/user-attachments/assets/a812c2bd-82c6-4920-8efd-97f86a8d8e5b)
+![image](https://github.com/user-attachments/assets/eb53d7cd-d15b-461e-89e5-56013c92840b)
+![image](https://github.com/user-attachments/assets/02d267dc-da8b-4294-b964-824c0d78a537)
+![image](https://github.com/user-attachments/assets/0077b232-a5db-4861-b862-db7126f5a7ec)
+
 ## Review process 
-## Review process 
-## Description
 ![image](https://github.com/user-attachments/assets/3fe6a136-ee37-42b1-ba4e-b8e69c20b30e)
 ![image](https://github.com/user-attachments/assets/ea313442-626d-46e6-b124-4f5d8e99bed0)
 ![image](https://github.com/user-attachments/assets/69418db8-4906-4823-8389-41a312ff4494)
@@ -34,6 +38,8 @@
 ![image](https://github.com/user-attachments/assets/03459ca7-932e-4ba2-81bb-c48d3c36db4b)
 ![image](https://github.com/user-attachments/assets/10479d60-6892-4170-8798-cc51c63c476a)
 ![image](https://github.com/user-attachments/assets/6cf88e25-3159-4659-b69d-1dbafcf14dfd)
+
+## Description
 
 This is a Python application that combines Wi-Fi scanning data and audio analysis with a Machine Learning model to detect and identify nearby devices. The application provides a graphical user interface (GUI) to display the number of devices, identified devices, prediction confidence, and estimated distance to a target device.
 
